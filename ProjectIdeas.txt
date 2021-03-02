@@ -12,3 +12,4 @@ neeed to be refined
 10.Python music player playlist play stop pause fast forward track skip
 11.YouTube video downloaderSometimes there are videos we like to download permanently. YouTube doesn’t give you that option, but you can create an app with a simple UI and the ability to download YouTube videos in different formats and video quality.
 12.Star wars armada sector generator. Create planets and plot locations on a map needs gui and run over web as a web application save and recall for that session only
+13.From a database users can see orbital positions of all commercial only satellites and plot this on a diagram
