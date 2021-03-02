@@ -1,0 +1,14 @@
+neeed to be refined
+
+1.Application used to strip out background noise from mars raw audio clips and save the modified files of later use
+2.Application to bulk adjust colour and light levels based on predetermined values and same them using a predetermined naming convention ( think mars images with colour adjustment for “true” colour images) 
+3.Robot sensing system to allow it to auto navigate around objects while attempting to return to original heading once object is avoided and sending data via an uplink to a mapping application 
+4.Application for RP gamers to create star systems for games like Traveller using some user input to determine outcome and to generate a simple diagram of position of planets in system ( Traveller has mountains of tables for this sort of thing and does get tedious )
+5.Simple 2D top down RPgame using user stats with random encounters, world map 
+6.Read  historical earthquakes from database by amount, factor and top 5 per year(s) selected from data set and output this to a visual representation
+7.Price Comparison Extension  l create a program that searches a few notable websites for the price of a product and then show you the best deal. 
+8.Means of creating,editing, adding and deleting database records for store of satphone handsets showing details such as serials, IMEI numbers phone numbers contract references  
+9.An app that plots position of stars from user defined input (lists) from a live database and display this to the user with ear at the center point (python for astronomers)( change the center point to a different star
+10.Python music player playlist play stop pause fast forward track skip
+11.YouTube video downloaderSometimes there are videos we like to download permanently. YouTube doesn’t give you that option, but you can create an app with a simple UI and the ability to download YouTube videos in different formats and video quality.
+12.Star wars armada sector generator. Create planets and plot locations on a map needs gui and run over web as a web application save and recall for that session only
