@@ -15,7 +15,6 @@ def searchFun(link):
     return listoflinks
 
 search = searchFun ("https://en.wikipedia.org/wiki/Special:Random")
-#search = searchFun("")
 comparelist=[]
 count = 0
 
@@ -23,13 +22,14 @@ while True:
 
     randomcall = random.randint(3, 9)
     newsite = search[randomcall]
-
+    """
     if not search:
         print("Thats it! its all over. no more valid links")
         print("I have followed ", count, "links")
         print(comparelist)
         break
-    elif newsite in comparelist:
+    """
+    if newsite in comparelist:
         print("I have followed ", count, "links before I repeated myself")
         print ("last valid link was",newsite)
         for link in comparelist:
